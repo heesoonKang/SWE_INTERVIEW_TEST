@@ -12,7 +12,7 @@ This project is a simple card list application with a backend server built using
 
 ### 2. Open in Visual Studio Code
 
-### 3. ```cd``` into backend file
+### 3. Backend Setup
 Run the following command in backend directory to start the local server.
 - ```cd SWE_INTERVIEW_TEST/StarterCode/backend ```
 - ```npm install```
@@ -22,15 +22,18 @@ Requirement:
 - Please make sure to install dependensies
 ```npm install```
 
-### 4. ```cd``` into frontend file
-Run the following command in frontend directory to start the local server.
-```npm start```
+### 4. Frontend Setup
+Navigate to the frontend directory, install dependencies, and start the frontend server:
+- ```cd SWE_INTERVIEW_TEST/StarterCode/frontend ```
+- ```npm install```
+- ```npm start```
 
-Once you run this command, you will be able to see the cardlist on the localhost:3000
+Additional Requirements
+- This project requires Node.js v16 or v18. To check your current Node.js version, run: ```node -v```
 
-Requirement:
-- This project requires Node.js v16 or v18. You can check your current Node.js version with:
-```node -v```
+
+### 5. Output
+Once both backend and frontend server is working, open ```http://localhost:3000```
 
 
 
