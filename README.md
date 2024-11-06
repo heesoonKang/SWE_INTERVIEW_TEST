@@ -10,8 +10,7 @@ This project is a simple card list application with a backend server built using
 
 ### 1. Clone the Repository
 Clone the repository to your local machine:
-```bash
-git clone https://github.com/YOUR_USERNAME/SWE_INTERVIEW_TEST.git
+```git clone https://github.com/YOUR_USERNAME/SWE_INTERVIEW_TEST.git```
 
-### 2. Clone the Repository
+
 
