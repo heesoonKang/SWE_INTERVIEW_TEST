@@ -23,7 +23,7 @@ Requirement:
 ```npm install```
 
 ### 4. Frontend Setup
-Navigate to the frontend directory, install dependencies, and start the frontend server:
+Open another terminal while backend is running, navigate to the frontend directory, install dependencies, and start the frontend server:
 - ```cd SWE_INTERVIEW_TEST/StarterCode/frontend ```
 - ```npm install```
 - ```npm start```
