@@ -9,8 +9,8 @@ app.use(express.json());
 
 // CORS configuration for specific origin
 app.use(cors({
-  origin: 'http://localhost:3000',  // Allow only this origin
-  methods: ['GET', 'POST', 'DELETE'],  // Allow only specified methods
+  origin: 'http://localhost:3000', 
+  methods: ['GET', 'POST', 'DELETE'], 
 }));
 
 // Products array
