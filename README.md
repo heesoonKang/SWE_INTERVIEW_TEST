@@ -15,6 +15,7 @@ This project is a simple card list application with a backend server built using
 ### 3. ```cd``` into backend file
 Run the following command to start the local server.
 ```npx nodemon index.js```
+
 Requirement:
 - Please make sure to install dependensies
 ```npm install```
