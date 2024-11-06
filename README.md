@@ -13,4 +13,7 @@ Clone the repository to your local machine:
 ```git clone https://github.com/YOUR_USERNAME/SWE_INTERVIEW_TEST.git```
 
 
+### 2. ```cd``` into backend file
+
+
 
