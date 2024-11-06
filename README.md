@@ -1,11 +1,14 @@
-# SWE INTERVIEW TEST 
-THIS IS TO TEST YOUR SKILLS TO MEET OUR APP DEVELOPMENT REQUIREMENTS
+# Simple Card List Application
 
-1. Clone this repo to your local machine.
-2. Read `Assignment Requirements` carefully and follow it.
-4. Please commit your entire code to `your own Github repository` 
-5. On your repo, please add step-by-step instructions on how to launch (for both the Backend and Frontend) to the `README.md`
-6. Share your repo link with us via email.
+This project is a simple card list application with a backend server built using Express.js and a frontend built using React. 
 
-HAPPY CODING! </br>
-A Round Entertainment
+## Requirements
+- **Node.js** (Preferably v16 or v18 for compatibility)
+- **npm** (Node Package Manager)
+
+## Setup Instructions
+
+### 1. Clone the Repository
+Clone the repository to your local machine:
+```bash
+git clone https://github.com/YOUR_USERNAME/SWE_INTERVIEW_TEST.git
