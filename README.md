@@ -8,8 +8,7 @@ This project is a simple card list application with a backend server built using
 
 ## Setup Instructions
 
-### 1. Clone the Repository
-Clone the repository to your local machine:
+### 1. Clone the repository to your local machine
 
 ### 2. Open in Visual Studio Code
 
