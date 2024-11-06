@@ -14,6 +14,12 @@ Clone the repository to your local machine:
 
 
 ### 2. ```cd``` into backend file
+Run the following command to start the local server.
+```npx nodemon index.js```
+Requirement:
+- Please make sure to install dependensies
+```npm install```
+
 
 
 
